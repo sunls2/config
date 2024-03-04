@@ -28,11 +28,8 @@
 
     /* -------- HINTS -------- */
     --bg-hints: #FFD752;
-    /* Background color of link hints */
     --border-hints: #F4CA46;
-    /* Border color of link hints */
     --fg-hints: #000000;
-    /* Text color of link hints, (don't forget to change `#vimiumHintMarkerContainer div > .matchingCharacter ~ span`) */
 }
 
 /* --------------------------------- CSS --------------------------------- */
